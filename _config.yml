@@ -1,0 +1,7 @@
+yaml
+remote_theme: bamr87/zer0-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+title: "Моя книга"
+description: "Сайт моей книги"
