@@ -1,6 +1,7 @@
 remote_theme: bamr87/zer0-mistakes
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 title: Название вашей книги
 description: Описание
 theme_skin: plum
