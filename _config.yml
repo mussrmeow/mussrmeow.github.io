@@ -4,4 +4,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 title: "Моя книга"
-description: "Сайт моей книги"
+description: "Сайт моей книги."
